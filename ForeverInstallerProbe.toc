@@ -5,7 +5,6 @@
 ## SavedVariables: ForeverInstallerProbeDB
 ## LoadSavedVariablesFirst: 1
 ## Category: Mimezu's Suite
-## Group: Mimezu_Tools
 ## IconTexture: Interface\Icons\INV_Misc_Wrench_01
 
 # Settings load through native SavedVariables.

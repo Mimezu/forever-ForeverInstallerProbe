@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: Forever Installer Probe
+## Notes: Isolated persistence test; /fprobe shows the saved marker.
+## Version: 1.0.1
+## SavedVariables: ForeverInstallerProbeDB
+## LoadSavedVariablesFirst: 1
+## Category: Mimezu's Suite
+## Group: Mimezu_Tools
+## IconTexture: Interface\Icons\INV_Misc_Wrench_01
+
+# Settings load through native SavedVariables.
+Probe.lua
